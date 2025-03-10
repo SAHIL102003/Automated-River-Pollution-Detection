@@ -6,7 +6,7 @@ This project utilizes satellite imagery and machine learning to detect river pol
 **🛠️ Tech Stack:**  
 ◆ Machine Learning: CNN (Convolutional Neural Networks)  
 ◆ Programming Languages: Python  
-◆ Frameworks/Libraries: TensorFlow, OpenCV, NumPy, Pandas  
+◆ Frameworks: flask 
 ◆ Dataset: Kaggle (Preprocessed satellite images)  
 
 **🔄 Workflow:**  
