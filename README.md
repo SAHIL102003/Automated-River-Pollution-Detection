@@ -6,7 +6,7 @@ This project utilizes satellite imagery and machine learning to detect river pol
 **🛠️ Tech Stack:**  
 ◆ Machine Learning: CNN (Convolutional Neural Networks)  
 ◆ Programming Languages: Python  
-◆ Frameworks: flask 
+◆ Frameworks: flask   
 ◆ Dataset: Kaggle (Preprocessed satellite images)  
 
 **🔄 Workflow:**  
@@ -19,14 +19,7 @@ This project utilizes satellite imagery and machine learning to detect river pol
 **🔹 Impact:**  
 1️⃣ Automates pollution monitoring without manual inspection.  
 2️⃣ Provides accurate pollution assessment for environmental agencies.  
-3️⃣ Supports government policies for water resource management.  
 
 **🔹 Applications:**  
 1️⃣ Environmental Monitoring – Helps track pollution trends over time.  
-2️⃣ Water Quality Assessment – Assists in identifying heavily polluted water bodies.  
-3️⃣ Smart City Development – Supports clean water initiatives.  
-
-**🚀 Future Enhancements:**  
-◆ Integration with real-time satellite data for live monitoring.  
-◆ Expanding classification to detect specific pollutants.  
-◆ Implementing AI-powered alert systems for high pollution levels.  
+2️⃣ Water Quality Assessment – Assists in identifying heavily polluted water bodies.   
